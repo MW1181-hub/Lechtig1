@@ -1,0 +1,12 @@
+title: לעכטיג
+description: א היימיש-אידיש פלאטפארמע פאר התאחדות אנ"ש דארה"ב וקנדא
+
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: yi
