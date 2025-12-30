@@ -10,3 +10,8 @@ defaults:
       path: ""
     values:
       lang: yi
+      header_pages:
+  - index.md
+  - pages/about.md
+  - pages/help.md
+
